@@ -11,7 +11,7 @@
 
 ## Websites That a Developed
 
-- [MDGFOODS.co.uk](http://mdgfoods.co.uk/) - Php, Vanila Javascript, Koddn JS, Koddn CMS
+- [MDGFOODS.co.uk](https://mdgfoods.co.uk/) - Php, Vanila Javascript, Koddn JS, Koddn CMS
 - [BatalaTaxi.com](https://batalataxi.com/) - Php, Vanila Javascript, Koddn JS, Koddn CMS
 - [Wavex.in](https://www.wavex.in/) - Javascript, custom Liquid Template Theme
 - [Dtechy.com](https://www.dtechy.com/) - Wordpress, Javascript, Php

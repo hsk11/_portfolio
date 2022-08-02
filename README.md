@@ -7,7 +7,7 @@
 - Php, Javascript
 
 ## 2. Jai JS (Private)
-- Full Stack Framework Similar to react and Vue  + Server Side rendering
+- Full Stack Framework Similar with server side & client side rendering
 
 ## Websites That a Developed
 
